@@ -1,0 +1,9 @@
+{
+    "core": {
+        "app_title": "Randomizador"
+    },
+    "home": {
+        "title": "Hola!",
+        "change_color": "Cambiar color"
+    }
+}

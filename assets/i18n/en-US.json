@@ -1,0 +1,9 @@
+{
+    "core": {
+        "app_title": "Randomized"
+    },
+    "home": {
+        "title": "Hello there",
+        "change_color": "Change color"
+    }
+}
